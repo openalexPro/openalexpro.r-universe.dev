@@ -18,5 +18,10 @@
     "package": "openalexVectorComp",
     "url": "https://github.com/openalexPro/openalexVectorComp",
     "branch": "main"
+  },
+  {
+    "package": "openalexSnapshot",
+    "url": "https://github.com/openalexPro/openalexSnapshot",
+    "branch": "main"
   }
 ]
